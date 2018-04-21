@@ -5,7 +5,7 @@ It will emit bright, fixed-frequency (but adjustable) light from the palm to tar
 
 When the light frequency matches the frequency of moving objects (rotating or vibrating), moving objects will look like freezed (time stop)!
 
-![](https://imgur.com/JkbayJS.png)
+![](https://imgur.com/UeP2zL2.png)
 
 This project is inspired from [Mad Gyver's Time Control Gloves](http://www.instructables.com/id/DIY-Time-Control-Machine/)
 
